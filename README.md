@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&color=2C68F7&size=25&lines=To+be%2C+or+not+to+be%2C+that+is+a+question.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&color=2C68F7&size=25&width=600&lines=To+be%2C+or+not+to+be%2C+that+is+a+question.)](https://git.io/typing-svg)
 
 </div>
 
