@@ -93,7 +93,8 @@
 
 ### 🚧 Todo List
 ⬜ Follow the project to learn unity and replicate it：Catlikecoding Unity Tutorials
-⬜ Do some shader coding exercises;
+
+⬜ Do some shader coding exercises
 <!--
 ✅
 -->
