@@ -65,28 +65,27 @@
 <a href="https://blender.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a>
 
 ### 💻 Stats
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=xiongbinzou&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xiongbinzou&theme=tokyonight">
+<p align = "left">
+<img src = "https://github-readme-stats.vercel.app/api?username=xiongbinzou&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xiongbinzou&theme=tokyonight">
 </p>
 
-<p align = "center">
-<a href="https://github.com/xiongbinzou/xiongbinzou.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xiongbinzou&repo=xiongbinzou.github.io&theme=tokyonight" />
-</a>
-<a href="https://github.com/xiongbinzou/leetcode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xiongbinzou&repo=leetcode&theme=tokyonight" />
-</a>
+<p align = "left">
+ <a href="https://github.com/xiongbinzou/xiongbinzou.github.io">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiongbinzou&repo=xiongbinzou.github.io&theme=tokyonight" />
+ </a>
+ <a href="https://github.com/xiongbinzou/leetcode">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiongbinzou&repo=leetcode&theme=tokyonight" />
+ </a>
 </p>
 
 <!--
-<p align = "center">
+<p align = "left">
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=xiongbinzou&theme=algolia&column=8">
 </p>
 -->
 
-<p align = "center">
+<p align = "left">
  <img src="https://activity-graph.herokuapp.com/graph?username=xiongbinzou&theme=react-dark">
 </p>
 
