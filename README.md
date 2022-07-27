@@ -28,7 +28,7 @@
 <a href="https://github.com/golang/go/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/zh-CN/docs/Glossary/HTML5" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.latex-project.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
+<a href="https://www.lua.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </a>
 <a href="https://ww2.mathworks.cn/products/matlab.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a>
 
 <a href="https://www.anaconda.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> </a>
@@ -91,8 +91,8 @@
 
 
 ### 🚧 Todo List
+✅ Learn Lua Language
 ⬜ Follow the project to learn unity and replicate it：Catlikecoding Unity Tutorials
-
 ⬜ Do some shader coding exercises
 <!--
 ✅
