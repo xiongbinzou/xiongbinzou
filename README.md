@@ -92,8 +92,11 @@
 
 ### 🚧 Todo List
 ✅ Learn Lua Language
+
 ⬜ Follow the project to learn unity and replicate it：Catlikecoding Unity Tutorials
+
 ⬜ Do some shader coding exercises
+
 <!--
 ✅
 -->
