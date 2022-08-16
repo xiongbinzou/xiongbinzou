@@ -11,14 +11,15 @@
 ### 🤗 Welcome
 
 <!--my introduction start-->
-- 🔭 I’m recently working on 37 Game as a **devops engineer**. Before that, I was employed at Poseidon Studio of Netease as a **game development engineer**. My research interests lie at **Game Technology** and **Full Stack**.
-- 🌱 I’m currently restart learning game development in Unity, and looking for game development job opportunities.
-- ⚡ C# / Python / Go / Javascript
-- ❤️ I like playing 🎮, eating 🍇, traving, sleeping and 🏊. 
+- 🔭 I’m recently working on 37 Game as a **Devops engineer**. Before that, I was employed at Poseidon Studio of Netease as a **Game development engineer**.
+// My research interests lie at **Game Technology** and **Full Stack**.
+- 🌱 I’m currently looking for a new job opportunity from foreign company.
+- ⚡ Python / Linux / C#
+- ❤️ I like playing 🎮, traving, sleeping and 🏊. 
 - 💬 Be free to ask me about anything [here](https://github.com/xiongbinzou/xiongbinzou/issues)
 <!--my introduction end-->
 
-### 🧰 Languages and tools
+### 🧰 Languages and tools used
 
 <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/zh-cn/dotnet/csharp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
@@ -93,9 +94,9 @@
 ### 🚧 Todo List
 ✅ Learn Lua Language
 
-⬜ Follow the project to learn unity and replicate it：Catlikecoding Unity Tutorials
+⬜ Do some leetcode coding exercises
 
-⬜ Do some shader coding exercises
+⬜ Earn a new job opportunity
 
 <!--
 ✅
