@@ -12,7 +12,6 @@
 
 <!--my introduction start-->
 - 🔭 I’m recently working on 37 Game as a **Devops engineer**. Before that, I was employed at Poseidon Studio of Netease as a **Game development engineer**.
-// My research interests lie at **Game Technology** and **Full Stack**.
 - 🌱 I’m currently looking for a new job opportunity from foreign company.
 - ⚡ Python / Linux / C#
 - ❤️ I like playing 🎮, traving, sleeping and 🏊. 
