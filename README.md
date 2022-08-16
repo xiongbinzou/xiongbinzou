@@ -67,15 +67,15 @@
 ### 💻 Stats
 <p align = "left">
 <img src = "https://github-readme-stats.vercel.app/api?username=xiongbinzou&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xiongbinzou&theme=tokyonight">
 </p>
 
 <p align = "left">
  <a href="https://github.com/xiongbinzou/xiongbinzou.github.io">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiongbinzou&repo=xiongbinzou.github.io&theme=tokyonight" />
+   <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=xiongbinzou&repo=xiongbinzou.github.io&theme=tokyonight" />
  </a>
+ 
  <a href="https://github.com/xiongbinzou/leetcode">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiongbinzou&repo=leetcode&theme=tokyonight" />
+   <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=xiongbinzou&repo=leetcode&theme=tokyonight" />
  </a>
 </p>
 
