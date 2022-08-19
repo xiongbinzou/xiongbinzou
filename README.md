@@ -69,6 +69,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=xiongbinzou&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
 </p>
 
+<!--
 <p align = "left">
  <a href="https://github.com/xiongbinzou/xiongbinzou.github.io">
    <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=xiongbinzou&repo=xiongbinzou.github.io&theme=tokyonight" />
@@ -79,7 +80,6 @@
  </a>
 </p>
 
-<!--
 <p align = "left">
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=xiongbinzou&theme=algolia&column=8">
 </p>
