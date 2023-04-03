@@ -83,17 +83,17 @@
 <p align = "left">
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=xiongbinzou&theme=algolia&column=8">
 </p>
--->
+
 
 <p align = "left">
  <img src="https://activity-graph.herokuapp.com/graph?username=xiongbinzou&theme=react-dark">
 </p>
-
+-->
 
 ### 🚧 Todo List
 ✅ Learn Lua Language
 
-⬜ Do some leetcode coding exercises
+✅ Do some leetcode coding exercises
 
 ⬜ Earn a new job opportunity
 
