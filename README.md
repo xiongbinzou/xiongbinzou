@@ -1,4 +1,6 @@
-### 👋 Hey, I'm Eleven ZOU
+**English** | [中文](./README.zh-CN.md)
+
+### 👋 Hey
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/xiongbinzou)
 
@@ -12,10 +14,9 @@
 
 <!--my introduction start-->
 - 🔭 I’m recently working on 37 Game as a **Devops engineer**. Before that, I was employed at Poseidon Studio of Netease as a **Game development engineer**.
- - 🌱 I’m currently looking for a new job opportunity.
-- ⚡ Python / Linux / C#
+- 🌱 I’m currently looking for a new job opportunity.
+- ⚡ Python / Django / Vue / Linux / C#
 - ❤️ I like playing 🎮, traving, sleeping and 🏊. 
-- 💬 Be free to ask me about anything [here](https://github.com/xiongbinzou/xiongbinzou/issues)
 <!--my introduction end-->
 
 ### 🧰 Languages and tools used
