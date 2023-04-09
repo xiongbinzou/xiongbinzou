@@ -13,8 +13,10 @@
 ### 🤗 Welcome
 
 <!--my introduction start-->
-- 🔭 I’m recently working on 37 Game as a **Devops engineer**. Before that, I was employed at Poseidon Studio of Netease as a **Game development engineer**.
-- 🌱 I’m currently looking for a new job opportunity.
+
+I am looking for a position of **full stack engineer/backend engineer/front end engineer/operation and maintenance development**, if there is a suitable opportunity, please contact me [@Email](xiongbinzou@163.com)
+- 🔭 I graduated with a master's degree, 3 years of experience in devops engineer in the Internet & game industry. I'm mainly responsible for a series of work such as the refinement of front-end and back-end requirements of the web platform, data structure design, function development, testing, and application deployment. Because the previous company was suddenly disbanded, I currently unemployed at home.
+- 🌱 I am looking for a position of **full stack engineer/backend engineer/frontend engineer/devops engineer**, if there is a suitable opportunity, please fell free to contact me [@Email](xiongbinzou@163.com)
 - ⚡ Python / Django / Vue / Linux / C#
 - ❤️ I like playing 🎮, traving, sleeping and 🏊. 
 <!--my introduction end-->
@@ -92,13 +94,14 @@
 -->
 
 ### 🚧 Todo List
-✅ Learn Lua Language
+✅ Learn to use Django to develop a personal blog site
 
-✅ Do some leetcode coding exercises
+✅ Use Vue+Django to develop a game information website (in progress)
 
-⬜ Earn a new job opportunity
+⬜ Earn a new job opportunity (in progress)
 
 <!--
 ✅
+⬜
 -->
 
