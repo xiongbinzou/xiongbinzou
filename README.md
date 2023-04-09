@@ -15,7 +15,7 @@
 <!--my introduction start-->
 
 I am looking for a position of **full stack engineer/backend engineer/front end engineer/operation and maintenance development**, if there is a suitable opportunity, please contact me [@Email](xiongbinzou@163.com)
-- 🔭 I graduated with a master's degree, 3 years of experience in devops engineer in the Internet & game industry. I'm mainly responsible for a series of work such as the refinement of front-end and back-end requirements of the web platform, data structure design, function development, testing, and application deployment. Because the previous company was suddenly disbanded, I currently unemployed at home.
+- 🔭 I graduated with a master's degree, 3 years of experience in devops engineer in the Internet & game industry. I'm mainly responsible for a series of work such as the refinement of front-end and back-end requirements of the web platform, data structure design, function development, testing, and application deployment. Because the team of company I worked for was suddenly disbanded, I currently unemployed at home.
 - 🌱 I am looking for a position of **full stack engineer/backend engineer/frontend engineer/devops engineer**, if there is a suitable opportunity, please fell free to contact me [@Email](xiongbinzou@163.com)
 - ⚡ Python / Django / Vue / Linux / C#
 - ❤️ I like playing 🎮, traving, sleeping and 🏊. 
